@@ -5,3 +5,5 @@
 *.exe
 *.obj
 
+# 연습용 폴더 제외
+staging/
