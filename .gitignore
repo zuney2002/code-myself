@@ -1,0 +1,7 @@
+# Visual Studio Code에서 사용하는 데이터 제외
+.vscode/
+
+# .exe와 .obj 제외
+*.exe
+*.obj
+
